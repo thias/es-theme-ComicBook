@@ -457,10 +457,10 @@ Planning to add the following:
 |disney|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |donkeykong|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |doom|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|dothack
-|dragonquest
-|earthbound
-|finalfantasy
+|dothack|:heavy_check_mark:|:heavy_check_mark:|:heavy_plus_sign:|:heavy_check_mark:|:heavy_check_mark:|
+|dragonquest|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|earthbound|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|finalfantasy|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |fireemblem
 |goldensun
 |halo
