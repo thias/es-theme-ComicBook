@@ -189,8 +189,8 @@ Original author: Kevin Thueringer (TMNTturtlguy)
 		<rating name="md_rating">
          <pos>0.87 0.66</pos>
          <size>0 0.038</size>
+		 <unfilledPath>./_assets/star_empty.png</unfilledPath>
          <filledPath>./_assets/star_filled.png</filledPath>
-         <unfilledPath>./_assets/star_empty.png</unfilledPath>
         </rating>
 
 		<text name="md_lbl_playcount">
