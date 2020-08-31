@@ -20,8 +20,9 @@ For use with [EmulationStation](https://emulationstation.org/index.html)
 - [Nismo](https://retropie.org.uk/forum/user/nismo)        - for all of the testing, input, and suggested improvements
 - [Ruckage](https://retropie.org.uk/forum/user/ruckage)      - for updating font characters to support multiple languages.
 - [salor10](https://retropie.org.uk/forum/user/salor10) - for adding some comic rip art.
-- Safemode     - for testing debuging, and critque help
+- [Safemode](https://github.com/Safemode)     - for testing debuging, and critque help
 - Elcie 	   - for Image editing and insight help
+- [Rodclemen](https://retropie.org.uk/forum/user/rodclemen) - Rendering fixes
 
 ## Important Information
 
@@ -268,6 +269,7 @@ Updated the Following:
 - Naomi Theme - Comic Rip art courtesy of [salor10](https://retropie.org.uk/forum/user/salor10)
 - Atomiswave Theme - Comic and Comic Rip art courtesy of [salor10](https://retropie.org.uk/forum/user/salor10)
 - X68000 Theme - Comic Rip art courtesy of [salor10](https://retropie.org.uk/forum/user/salor10)
+- Pac-man Theme - Bannerlog compatibility fix for Retropie by [Rodclemen](https://retropie.org.uk/forum/user/rodclemen)
 
 ---
 ### Version 4.0
