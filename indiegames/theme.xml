@@ -1,6 +1,6 @@
 <!--
 version: 3.2.1
-author: Kevin Thueringer (TMNTturtlguy)
+author: Zenjiro
 
 -->
 <theme>
@@ -39,7 +39,7 @@ author: Kevin Thueringer (TMNTturtlguy)
 			<origin>0.5 0.5</origin>
 		</image>
 
-		<image name="classic_logo" extra="true">
+    <image name="classic_logo" extra="true">
 			<path>./bannerlogo.png</path>
 			<pos>0.75 0.086</pos>
 			<maxSize>0.40 0.1</maxSize>
@@ -53,13 +53,16 @@ author: Kevin Thueringer (TMNTturtlguy)
 			<origin>0.5 0.5</origin>
 		</image>
 
+    <sound name="launch">
+      <path>./launch.ogg</path>
+    </sound>
+
 	</view>
 
 	<view name="basic">
 	</view>
 
 	<view name="detailed">
-
 	</view>
 
 </theme>
