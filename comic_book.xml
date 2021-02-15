@@ -98,8 +98,9 @@ Original author: Kevin Thueringer (TMNTturtlguy)
 				<pos>0.672 0.4</pos>
 				<origin>0.5 0.5</origin>
 				<maxSize>0.32 0.42</maxSize>
+				<delay>1</delay>
 				<showSnapshotNoVideo>true</showSnapshotNoVideo>
-				<showSnapshotDelay>false</showSnapshotDelay>
+				<showSnapshotDelay>true</showSnapshotDelay>
 			</video>
 
 			<image name="md_marquee">
