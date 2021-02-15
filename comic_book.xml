@@ -70,7 +70,7 @@ Original author: Kevin Thueringer (TMNTturtlguy)
 			<size>0.476 0.7495</size>
 			<alignment>center</alignment>
 			<horizontalMargin>0.00</horizontalMargin>
-			<fontSize>0.0480</fontSize>
+			<fontSize>0.04</fontSize>
 			<scrollSound>./_assets/scroll/scroll.wav</scrollSound>
 		</textlist>
 
