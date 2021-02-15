@@ -178,29 +178,29 @@ Original author: Kevin Thueringer (TMNTturtlguy)
 		</text>
 
 		<text name="md_lbl_players, md_players">
-			<pos>0.89 0.635</pos>
+			<pos>0.82 0.635</pos>
 			<size>0.09 0</size>
 		</text>
 
 		<text name="md_players">
-			<pos>0.96 0.635</pos>
+			<pos>0.93 0.635</pos>
 			<size>0.02 0</size>
 		</text>
 
 		<rating name="md_rating">
-         <pos>0.87 0.66</pos>
+         <pos>0.82 0.66</pos>
          <size>0 0.038</size>
 		 <unfilledPath>./_assets/star_empty.png</unfilledPath>
          <filledPath>./_assets/star_filled.png</filledPath>
         </rating>
 
 		<text name="md_lbl_playcount">
-			<pos>0.88 0.685</pos>
+			<pos>0.82 0.685</pos>
 			<size>0.0 0.033</size>
 		</text>
 
 		<text name="md_playcount">
-			<pos>0.96 0.685</pos>
+			<pos>0.93 0.685</pos>
 			<size>0.02 0</size>
 		</text>
 
